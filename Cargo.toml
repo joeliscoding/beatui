@@ -6,7 +6,7 @@ edition = "2024"
 license-file = "LICENSE"
 readme = "README.md"
 repository = "https://github.com/joeliscoding/beatui"
-description = "A TUI app that act as a per project task list."
+description = "Play and manage your tunes from the terminal."
 
 [dependencies]
 ratatui = "0.29.0"
